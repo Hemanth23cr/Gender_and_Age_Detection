@@ -36,6 +36,8 @@ To go about the python project, we’ll:
 
 # The Dataset
 
+The dataset has been linked in the main.py program......when u run the program, dataset will be downloaded automatically and load to the program training set. If u want use a different dataset. You can through the below link from Kaggle datasets.
+
 <p>For this python project, we’ll use the Adience dataset; the dataset is available in the public domain and you can find it <em><strong><a href="https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification" onclick="javascript:window.open('https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification'); return false;">here</a></strong></em>. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance. The images have been collected from Flickr albums and distributed under the Creative Commons (CC) license. It has a total of 26,580 photos of 2,284 subjects in eight age ranges (as mentioned above) and is about 1GB in size. The models we will use have been trained on this dataset.</p>
 
 ## Prerequisites
